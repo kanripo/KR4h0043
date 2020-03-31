@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五百家播芳大全文粹
-#+DATE: 2020-03-31 11:39:48.935188
+#+DATE: 2020-03-31 11:39:50.531507
 #+PROPERTY: ID KR4h0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 64
 <pb:KR4h0043_WYG_064-1a>¶
 　　欽定四庫全書¶
@@ -515,7 +515,7 @@
 泥勢隔不敢頻以竿牘㣲禮冒玷典籖仰覬鈞慈察其¶
 非懈特賜原貸¶
 ¶
-　　某坎𡒄㣲蹤久荷甄播叨竊承宣之寄雖偏方遐徼夷¶
+　　某坎壈㣲蹤久荷甄播叨竊承宣之寄雖偏方遐徼夷¶
 獠雜居自昔號為難制而逺頼朝廷威徳莫不革心向化¶
 以故柔良樂業得以安其愚拙舉家飽煖實出鴻私¶
 感激形言曷殫愚悃¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五百家播芳大全文粹
-#+DATE: 2020-03-31 11:39:48.779213
+#+DATE: 2020-03-31 11:39:50.377703
 #+PROPERTY: ID KR4h0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 53
 <pb:KR4h0043_WYG_053-1a>¶
 　　欽定四庫全書¶
@@ -235,7 +235,7 @@
 <pb:KR4h0043_WYG_053-12b>¶
 　　上漕使啟　　　　　　　　　熊子復¶
 ¶
-　　分曹下邑愧蔑補于毫釐受察外臺諒靡逃于𦸼鑑雖¶
+　　分曹下邑愧蔑補于毫釐受察外臺諒靡逃于藻鑑雖¶
 木乏先容之助而金忘自躍之羞敢布腹心冀溷牙頬¶
 竊以夜光明月或形按劍之疑流水髙山未免絶絃之¶
 嘆蓋干時之寡合亦知己之難逢矧是孤蹤方居冗職¶

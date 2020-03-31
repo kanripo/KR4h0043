@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五百家播芳大全文粹
-#+DATE: 2020-03-31 11:39:48.586715
+#+DATE: 2020-03-31 11:39:50.137832
 #+PROPERTY: ID KR4h0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 35
 <pb:KR4h0043_WYG_035-1a>¶
 　　欽定四庫全書¶
@@ -436,7 +436,7 @@
 倚那微健筆其誰宜為豈老生敢專數事蕪詞累句亦¶
 <pb:KR4h0043_WYG_035-21b>¶
 復見收延閣崇名猥加褒賞在於流落至斯寵光某敢¶
-不體朝廷𠲒垢之慈勵畎畆願忠之志指青山而長徃¶
+不體朝廷含垢之慈勵畎畆願忠之志指青山而長徃¶
 忍自棄於明時鏤白玉以紀封尚竊期於後日¶
 ¶
 　　除閣職謝宰相啓¶

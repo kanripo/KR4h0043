@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五百家播芳大全文粹
-#+DATE: 2020-03-31 11:39:49.216844
+#+DATE: 2020-03-31 11:39:50.844469
 #+PROPERTY: ID KR4h0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 88
 <pb:KR4h0043_WYG_088-1a>¶
 　　欽定四庫全書¶
@@ -435,7 +435,7 @@
 ¶
 　　衆生困苦之中但知呼佛諸聖慈悲之故常善救人昨¶
 以二子同時一春卧病既不勝於憂悃輙仰叩於真乘¶
-&KR0360;耳梵容嘗形夢寐楊枝法雨坐獲清凉敢具伊蒲肅¶
+𣆀耳梵容嘗形夢寐楊枝法雨坐獲清凉敢具伊蒲肅¶
 延飛錫伏願遵如來之誨飭作濁世之依歸靡辭赴感¶
 之勞常畀闔家之福¶
 ¶

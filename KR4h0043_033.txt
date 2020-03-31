@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五百家播芳大全文粹
-#+DATE: 2020-03-31 11:39:48.562055
+#+DATE: 2020-03-31 11:39:50.107768
 #+PROPERTY: ID KR4h0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 33
 <pb:KR4h0043_WYG_033-1a>¶
 　　欽定四庫全書¶
@@ -220,7 +220,7 @@
 石班春占土牛而得嵗五百年住世摩銅狄以興嗟履¶
 <pb:KR4h0043_WYG_033-10a>¶
 運中興逢辰交泰一城喜色欣欣上旄羽之塵四野春¶
-聲籍籍滿袴&KR0237;之詠其為瞻頌難盡名言¶
+聲籍籍滿袴𥜗之詠其為瞻頌難盡名言¶
 ¶
 　　賀太守正啓　　　　　　　　闕　名¶
 ¶

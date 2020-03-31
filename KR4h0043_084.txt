@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五百家播芳大全文粹
-#+DATE: 2020-03-31 11:39:49.169447
+#+DATE: 2020-03-31 11:39:50.779102
 #+PROPERTY: ID KR4h0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 84
 <pb:KR4h0043_WYG_084-1a>¶
 　　欽定四庫全書¶
@@ -442,7 +442,7 @@
 ¶
 <pb:KR4h0043_WYG_084-19a>¶
 　　貝闕珠宫自菩薩龍所避瑶堦金地為阿羅漢所居必¶
-極西方之流故堪東道之選伏惟印老和尚舌根茹&KR0097;¶
+極西方之流故堪東道之選伏惟印老和尚舌根茹蜜¶
 有花木香襟懷挾水無塵土氣操節凛金石之異言語¶
 如雲霞之姿已堂堂而經竒但寂寂而埋照苦同淨業¶
 數眷老夫勅書閣下接太乙真人吏隠山間近第五尊¶

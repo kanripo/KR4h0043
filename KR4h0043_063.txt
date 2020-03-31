@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五百家播芳大全文粹
-#+DATE: 2020-03-31 11:39:48.921086
+#+DATE: 2020-03-31 11:39:50.516965
 #+PROPERTY: ID KR4h0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 63
 <pb:KR4h0043_WYG_063-1a>¶
 　　欽定四庫全書¶
@@ -138,7 +138,7 @@
 ¶
 　　某頃常具不腆牋牘冐昧典記譬夫擊轅拊缶巴人下¶
 里唐突清朝之奏率邇犯分何所逃罪某官方以大賢¶
-全徳嘉善矜愚雖涓㣲塵&KR0381;下才末技不賜剪棄特¶
+全徳嘉善矜愚雖涓㣲塵壒下才末技不賜剪棄特¶
 <pb:KR4h0043_WYG_063-7a>¶
 垂酬答使得光華蔀室拳拳服膺以自砥礪於寵綏之¶
 盛幸甚矣蜀萬里江湖悠末陳謝迂緩伏深慙罪¶

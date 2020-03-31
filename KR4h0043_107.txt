@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五百家播芳大全文粹
-#+DATE: 2020-03-31 11:39:49.471682
+#+DATE: 2020-03-31 11:39:51.097030
 #+PROPERTY: ID KR4h0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 107
 <pb:KR4h0043_WYG_107-1a>¶
 　　欽定四庫全書¶
@@ -38,7 +38,7 @@
 　　祭外舅呉寺丞文　　　　　　葛謙白¶
 ¶
 　　嗚呼宣和山陽公始女女不余陋庸甥館見處浹旬别¶
-公侍親臨安有&KR0177;其斾公來自楚欲視其息不憚羇旅¶
+公侍親臨安有燁其斾公來自楚欲視其息不憚羇旅¶
 公官篷池我舟繫渚公為歡迎倒屣延竚濶展杯盤侑¶
 此歌舞龍集甲辰注官銓部十口累公遂閲寒暑出乘¶
 <pb:KR4h0043_WYG_107-2b>¶

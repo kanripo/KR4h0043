@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五百家播芳大全文粹
-#+DATE: 2020-03-31 11:39:48.849015
+#+DATE: 2020-03-31 11:39:50.444552
 #+PROPERTY: ID KR4h0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 57
 <pb:KR4h0043_WYG_057-1a>¶
 　　欽定四庫全書¶
@@ -333,7 +333,7 @@
 <pb:KR4h0043_WYG_057-16a>¶
 　　詔答辭免資政殿學士不允¶
 ¶
-　　卿奮以周行以誠輔朕&KR0346;躬寡過持論正平終始二年¶
+　　卿奮以周行以誠輔朕飾躬寡過持論正平終始二年¶
 朕所眷禮方頼宏益浩然永歸挽留莫從良鬰予懷升¶
 華秘殿姑示異恩式寵爾行毋煩遜避所請宜不允故¶
 兹詔示想宜知悉¶
